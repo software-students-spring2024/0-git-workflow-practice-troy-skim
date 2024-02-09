@@ -1,2 +1,5 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## SWE Article
+https://www.economist.com/special-report/2023/04/14/tech-wars
+
+I have found this article interesting because it consisted some challenging ideas for me. My driving experience until last year was limited to more hardware-based cars. That is, cars mostly with physical buttons, the only screen on the car being the GPS/Bluetooth audio. Last year, I had a opportunity to drive a car which almost every control was done via screen. While it was a quite an experience, I was worried about some safety features. Physical buttons are just there; you don't have to find for them once you know where they are. However, as touch-based system tend to include more features and the screen changing as one interacts with it, it is necessary to look at the screen and takes more time to perform same actions compared to physical buttons. Even so, the touch-based software on cars has many possibilities and is the current paradigm. I found this article challenging as it introduced the current market heading toward a more software-based development of cars. 
